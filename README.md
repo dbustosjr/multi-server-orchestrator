@@ -102,7 +102,6 @@ If you use this project or mcp-use in your research or work, please cite:
 
 - [mcp-use GitHub](https://github.com/mcp-use/mcp-use)
 - [Project 1: Terminal Safety Analyzer](../terminal-safety-analyzer)
-- [Demo Video](link-to-demo)
 
 ## 📝 License
 
