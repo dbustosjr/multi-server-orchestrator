@@ -96,6 +96,7 @@ If you use this project or mcp-use in your research or work, please cite:
   year = {2025},
   publisher = {GitHub},
   url = {https://github.com/mcp-use/mcp-use}
+  
 }
 
 ## 🔗 Links
